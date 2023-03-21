@@ -1,3 +1,3 @@
 # ansible-config-mgt
 
-ansible test build
+ansible test
