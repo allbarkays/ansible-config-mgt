@@ -8,3 +8,5 @@ build for artifacts_save 29/03
 
 changed ownership
 chmod -R 0777 /home/ubuntu/ansible-config-artifact
+
+/var/lib/jenkins/ansible-config-artifact
