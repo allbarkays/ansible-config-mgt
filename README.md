@@ -1,3 +1,3 @@
 # ansible-config-mgt
 
-push after common.yml and common-del.yml
+push after common.yml and common-del.ymlartifact
